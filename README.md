@@ -4,7 +4,7 @@
 ## Adımlar
 [7,5,1,8,3,6,0,9,4,2]
 
-Root 7'tir. Root'un sağında 8 solunda 5 bulunur
+Root 7'dir. Root'un sağında 8 solunda 5 bulunur
 
                         7
                 5               8
